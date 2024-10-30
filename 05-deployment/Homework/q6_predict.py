@@ -9,7 +9,7 @@ def load(filename: str):
         return pickle.load(f_in)
 
 dv_file = load("dv.bin")
-model_file = load("model1.bin")
+model_file = load("model2.bin")
 
 app = Flask("probability")
 
