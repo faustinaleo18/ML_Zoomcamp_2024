@@ -2,7 +2,7 @@ import numpy as np
 import os
 from PIL import Image
 import tensorflow.lite as tflite
-import json
+# import json
 
 MODEL_NAME = os.getenv("MODEL_NAME", "model_2024_hairstyle.tflite")
 
@@ -44,4 +44,4 @@ def lambda_handler(event, context):
     result = {
         "prediction": pred
     }
-    return json.dumps(result)
+    return result
