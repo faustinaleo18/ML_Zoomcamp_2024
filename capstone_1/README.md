@@ -43,7 +43,7 @@ To run it locally simply run predict.py and then in other terminal, type `python
 
 ### Model output
 For the model output, it should generate like this...
-![model output](image-1.png)
+![model output](image-1.png) <br>
 **Note:** I can't upload all those models into GitHub because of those sizes. So if you want to get the output like this, you can run notebook.py or train.py 
 
 ### Containerization
