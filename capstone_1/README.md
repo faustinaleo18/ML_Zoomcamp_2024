@@ -79,5 +79,8 @@ The python image which would be used for this project is `python:3.10-slim`. The
 ### Discussion 
 Actually I have tried to deploy this app by using AWS ECR and Lambda and connected it into API gateaway, but I have no idea why it still gave me an error. So that's why I didn't deploy this app to the cloud
 
+### Documentation
+For the documentation, you can check on photo folder
+
 ### References
 Muthayya, et al. (2014). An overview of global rice production, supply, trade, and consumption. *Annals of the New York Academy of Sciences, 1324*(1), 7–14. https://doi.org/10.1111/nyas.12540
