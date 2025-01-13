@@ -41,6 +41,11 @@ This project has been created in Windows OS so make sure to install waitress lib
 ### How to run app locally
 To run it locally simply run predict.py and then in other terminal, type `python test.py`. You will the result of this prediction
 
+### Model output
+For the model output, it should generate like this...
+![model output](image-1.png)
+**Note:** I can't upload all those models into GitHub because of those sizes. So if you want to get the output like this, you can run notebook.py or train.py 
+
 ### Containerization
 The python image which would be used for this project is `python:3.10-slim`. These below are step by step how to make a container in Docker
 1. Create a Dockerfile, which contained this code below
