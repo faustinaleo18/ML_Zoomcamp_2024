@@ -44,7 +44,7 @@ To run it locally simply run predict.py and then in other terminal, type `python
 ### Model output
 For the model output, it should generate like this...
 ![model output](image-1.png) <br>
-**Note:** I can't upload all those models into GitHub because of those sizes. So if you want to get the output like this, you can run notebook.py or train.py 
+**Note:** I can't upload all those models into GitHub because of those sizes. So if you want to get the output like this, you can run notebook.py or train.py or you can access those models on [this drive](https://drive.google.com/drive/folders/1h2zR5sOW3MJvRLFY0yqGMI4VXaGzUQDb?usp=sharing).
 
 ### Containerization
 The python image which would be used for this project is `python:3.10-slim`. These below are step by step how to make a container in Docker
